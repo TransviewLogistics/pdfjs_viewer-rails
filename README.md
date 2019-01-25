@@ -1,6 +1,6 @@
 # pdfjs_viewer-rails
 
-[![Build Status](https://travis-ci.org/senny/pdfjs_viewer-rails.svg?branch=master)](https://travis-ci.org/senny/pdfjs_viewer-rails)
+This is the Transview Logistics fork of the `pdf_viewer-rails` gem. We upgraded the verson to 1.10.100 and added support for cross-domain requests.
 
 ## Installation
 
